@@ -1,1 +1,2 @@
 # SmartWaste
+hardware/diagram.json
